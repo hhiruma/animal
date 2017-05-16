@@ -8,5 +8,3 @@ class Animal
     puts "#{@name}:#{@cry}"
   end
 end
-
-# Taro: bow!
